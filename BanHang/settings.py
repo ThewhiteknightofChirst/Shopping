@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'rent',
     'phonenumber_field',
     'annoying',
+    'BanHang',
 ]
 
 MIDDLEWARE = [
