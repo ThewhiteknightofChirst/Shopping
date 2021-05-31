@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#bar
+{
+    margin-bottom: 0px;
+    border-radius: 0% ;
+}
+#bar .logo 
+{
+    margin-left: 100px;
+    padding: 0;
+   
+}
+
+#bar .logo img
+{
+    width: 100px;
+    height: 50px;
+    
+}
+#bar .menu
+{
+    margin-left: 850px;
+}
+
+.container
+{
+    margin-top: 400px;
+}
+.container .row .sub
+{
+    margin-top: 50px;
+}
+
+.container button
+{
+    padding: 10px 50px;
+}
+
+.divine h2 {
+    width: 50%; 
+    border-bottom: 1px solid #000; 
+    line-height: 2em;
+    
+ } 
+ 

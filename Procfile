@@ -1,0 +1,1 @@
+web: gunicorn BanHang.wsgi --log-file -
